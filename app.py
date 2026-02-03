@@ -54,11 +54,11 @@ model = pickle.load(open("placement_model.pkl", "rb"))
 feature_names = pickle.load(open("feature_names.pkl", "rb"))
 
 st.set_page_config(
-    page_title="India Engineering Student Placement Prediction",
+    page_title="India colleges Engineering Student Placement Prediction",
     layout="centered"
 )
 
-st.title("India 🎓 Engineering Student Placement Prediction")
+st.title("India colleges 🎓 Engineering Student Placement Prediction")
 st.write(
     "Predict whether a student will be **Placed** or **Not Placed** "
     "based on academic and skill details."
@@ -121,4 +121,5 @@ if st.button("🔮 Predict Placement"):
 
 st.markdown("---")
 st.caption("⚠️ Prediction is based on historical data and machine learning models.")
+
 
