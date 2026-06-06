@@ -411,6 +411,6 @@ The author is not responsible for any decisions made based on the predictions ge
 
 # Conclusion
 
-This project demonstrates how Machine Learning can help predict engineering student placement opportunities by analyzing academic, technical, and personal development factors. By comparing multiple algorithms such as Logistic Regression, Decision Tree, Random Forest, SVM, and XGBoost, the system identifies the most effective model and provides meaningful insights into student employability.
+This project demonstrates how Machine Learning can help predict engineering student placement opportunities by analyzing academic, technical, and personal development factors. By comparing multiple algorithms such as Logistic Regression, Decision Tree, Random Forest, KNN, the system identifies the most effective model and provides meaningful insights into student employability.
 
 ---
