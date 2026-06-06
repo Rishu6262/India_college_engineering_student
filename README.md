@@ -175,24 +175,57 @@ Advantages:
 
 ---
 
-## 4. Support Vector Machine (SVM)
+## 4. K-Nearest Neighbors (KNN)
 
 Advantages:
 
-* Effective in High Dimensional Data
-* Strong Classification Performance
+* Simple and Easy to Implement
+* Effective for Classification Tasks
+* Makes Predictions Based on Similar Data Points
+* Performs Well with Properly Scaled Data
 
 ---
 
-## 5. XGBoost
+# 🏆 Best Model Selection
 
-Advantages:
+All models were trained and evaluated.
 
-* State-of-the-Art Performance
-* Gradient Boosting
-* Handles Complex Patterns
+The best model was selected based on:
+
+* Highest Accuracy
+* Better Precision
+* Better Recall
+* Better Generalization
+
+Possible top-performing models:
+
+* Random Forest
+* K-Nearest Neighbors (KNN)
+
+depending on train-test split results.
 
 ---
+
+# 📦 Requirements
+
+```txt
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+joblib
+```
+
+---
+
+# Conclusion
+
+This project demonstrates how Machine Learning can help predict engineering student placement opportunities by analyzing academic, technical, and personal development factors. By comparing multiple algorithms such as Logistic Regression, Decision Tree, Random Forest, and K-Nearest Neighbors (KNN), the system identifies the most effective model and provides meaningful insights into student employability.
+
+```
+```
 
 # ⚙️ Data Preprocessing
 
