@@ -1,5 +1,10 @@
 # 🎓 Indian Engineering Student Placement Prediction
 
+🚀 Live Demo
+
+🌐 Streamlit Application:
+https://indiacollegeengineeringstudent-wgmnzas9bh3aszqqfyjyx9.streamlit.app/
+
 ## 📌 Project Overview
 
 The **Indian Engineering Student Placement Prediction System** is a Machine Learning project designed to analyze student academic performance, technical skills, internships, projects, certifications, and other career-related factors to predict placement outcomes.
