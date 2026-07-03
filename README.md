@@ -1,9 +1,13 @@
 # 🎓 Indian Engineering Student Placement Prediction
 
+---
+
 🚀 Live Demo
 
 🌐 Streamlit Application:
 https://indiacollegeengineeringstudent-wgmnzas9bh3aszqqfyjyx9.streamlit.app/
+
+---
 
 ## 📌 Project Overview
 
