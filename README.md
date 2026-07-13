@@ -83,16 +83,41 @@ The main objectives of this project are:
 
 ---
 
-# 🛠 Technologies Used
+# 🛠️ Technologies Used
 
-* Python
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
-* Scikit-Learn
-* Joblib
-* Streamlit
+This project was developed using the following technologies and Python libraries:
+
+## 💻 Programming Language
+
+* **Python** – Core programming language used for data processing, machine learning, and application development.
+
+## 📊 Data Analysis & Manipulation
+
+* **Pandas** – Data loading, cleaning, transformation, and analysis.
+* **NumPy** – Numerical computations and array operations.
+
+## 📈 Data Visualization
+
+* **Matplotlib** – Creating charts and visualizing data trends.
+* **Seaborn** – Statistical data visualization and correlation analysis.
+
+## 🤖 Machine Learning
+
+* **Scikit-Learn** – Data preprocessing, feature engineering, model training, evaluation, and prediction.
+
+## 💾 Model Serialization
+
+* **Joblib** – Saving and loading the trained Machine Learning model for deployment.
+
+## 🌐 Web Application
+
+* **Streamlit** – Building an interactive web interface for real-time placement prediction.
+
+## 🔧 Development Tools
+
+* **Jupyter Notebook** – Data exploration, EDA, and model development.
+* **Git & GitHub** – Version control and project hosting.
+
 
 ---
 
