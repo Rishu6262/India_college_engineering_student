@@ -147,39 +147,84 @@ Placement_Prediction_Project/
 
 # 🔍 Exploratory Data Analysis (EDA)
 
-The following analyses were performed:
+Exploratory Data Analysis (EDA) was performed to understand the dataset, identify meaningful patterns, detect anomalies, and discover relationships between different student attributes and placement outcomes. This step helped in selecting important features and improving the overall performance of the Machine Learning models.
 
-### Academic Analysis
+## 📚 Academic Performance Analysis
 
-* CGPA Distribution
-* 10th Percentage Analysis
-* 12th Percentage Analysis
-* Attendance Impact
+The following academic factors were analyzed:
 
-### Skill Analysis
+* 📈 CGPA Distribution
+* 📝 10th Percentage Distribution
+* 📖 12th Percentage Distribution
+* 🎓 Branch-wise Student Distribution
+* 📅 Attendance Percentage Analysis
+* 📊 Relationship between Academic Performance and Placement
 
-* Coding Skills
-* Communication Skills
-* Aptitude Skills
+---
 
-### Career Analysis
+## 💻 Technical Skill Analysis
 
-* Internships
-* Projects
-* Certifications
-* Hackathons
+Technical skills play a significant role in placement opportunities. The following attributes were analyzed:
 
-### Demographic Analysis
+* 💡 Coding Skill Rating
+* 🗣️ Communication Skill Rating
+* 🧠 Aptitude Skill Rating
+* 📊 Skill Score Distribution
+* 📈 Skill Comparison with Placement Status
 
-* Gender Distribution
-* Branch-wise Distribution
-* City Tier Comparison
+---
 
-### Lifestyle Analysis
+## 💼 Career Development Analysis
 
-* Stress Levels
-* Sleep Hours
-* Study Hours
+Career-related activities were analyzed to measure their impact on student placements.
+
+* 🚀 Internships Completed
+* 📂 Projects Completed
+* 📜 Certifications Earned
+* 🏆 Hackathon Participation
+* 📊 Career Activity vs Placement Analysis
+
+---
+
+## 👨‍🎓 Student Demographic Analysis
+
+Demographic information was explored to understand student diversity.
+
+* 👥 Gender Distribution
+* 🏫 Engineering Branch Distribution
+* 🌆 City Tier Comparison
+* 💰 Family Income Level Analysis
+* 🌐 Internet Access Distribution
+
+---
+
+## ❤️ Lifestyle Analysis
+
+Lifestyle factors that may influence academic performance and employability were also examined.
+
+* 😴 Sleep Hours Distribution
+* 📚 Daily Study Hours
+* 😓 Stress Level Analysis
+* ⚖️ Work-Life Balance
+* 📈 Lifestyle Factors vs Placement
+
+---
+
+## 📊 Data Visualization
+
+Several visualizations were created to better understand the dataset, including:
+
+* Histogram
+* Count Plot
+* Box Plot
+* Bar Chart
+* Pie Chart
+* Correlation Heatmap
+* Pair Plot
+* Distribution Plot
+* Feature Correlation Matrix
+
+The insights obtained from EDA helped identify the most influential features affecting student placement and provided a strong foundation for feature engineering, model training, and evaluation.
 
 ---
 
